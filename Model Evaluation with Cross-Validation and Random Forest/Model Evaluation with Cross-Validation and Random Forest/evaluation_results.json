@@ -1,0 +1,26 @@
+{
+    "Random Forest (Base)": {
+        "accuracy": 0.9560937742586555,
+        "precision_macro": 0.9557435041160833,
+        "recall_macro": 0.9526707402034947,
+        "f1_macro": 0.9528924697936147
+    },
+    "SVM": {
+        "accuracy": 0.9754230709517155,
+        "precision_macro": 0.9757578657103168,
+        "recall_macro": 0.9717897826233889,
+        "f1_macro": 0.9734777397306281
+    },
+    "Decision Tree": {
+        "accuracy": 0.9104021114733737,
+        "precision_macro": 0.9080040399966066,
+        "recall_macro": 0.9000201467201141,
+        "f1_macro": 0.9027943264694587
+    },
+    "Random Forest (Tuned)": {
+        "accuracy": 0.9543393882937432,
+        "precision_macro": 0.9536902264866578,
+        "recall_macro": 0.9502702260072061,
+        "f1_macro": 0.9508803391681029
+    }
+}
